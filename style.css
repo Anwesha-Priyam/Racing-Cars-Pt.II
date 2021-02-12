@@ -1,0 +1,8 @@
+.body_Background{
+    background-image: url("Racing.gif");
+    text-align: center;
+    background-size: cover;
+}
+#race_Canvas{
+    background-image: url("bg.jpg");
+}
